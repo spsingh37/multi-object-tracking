@@ -1,0 +1,8 @@
+prefix=/home/biorobotics/wombat_arm_ws/src/wombat_tracking/build/devel
+
+Name: wombat_tracking
+Description: Description of wombat_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

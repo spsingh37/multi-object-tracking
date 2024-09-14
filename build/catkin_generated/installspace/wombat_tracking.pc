@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: wombat_tracking
+Description: Description of wombat_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

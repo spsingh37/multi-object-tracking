@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/biorobotics/wombat_arm_ws/src/wombat_tracking/build/devel/setup.sh

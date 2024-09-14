@@ -28,12 +28,12 @@ The code has been built over `sort.py` with mainly 2 files, `phone_detection.py`
 
 ### Some iPhone/Apple watch detection results
 <p align="center">
-  <img src="results/8_detected.png" width="400" />
-  <img src="results/9_detected.png" width="400" />
-  <img src="results/10_detected.png" width="400" />
-  <img src="results/11_detected.png" width="400" />
-  <img src="results/12_detected.png" width="400" />
-  <img src="results/13_detected.png" width="400" />
+  <img src="src/results/8_detected.png" width="400" />
+  <img src="src/results/9_detected.png" width="400" />
+  <img src="src/results/10_detected.png" width="400" />
+  <img src="src/results/11_detected.png" width="400" />
+  <img src="src/results/12_detected.png" width="400" />
+  <img src="src/results/13_detected.png" width="400" />
 </p>
 
 

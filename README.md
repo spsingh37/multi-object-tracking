@@ -1,6 +1,6 @@
 # Implementation of a tracking package using SORT : Simple online Realtime Tracker 
 
-This is an implemenation of the phone tracker (and apple watch) for Project Wombat, Biorobotics Lab, CMU.
+This is an implementation of the phone tracker (and apple watch) for Project Wombat, Biorobotics Lab, CMU.
 
 The sort part of the code has been used from https://github.com/abewley/sort
 
